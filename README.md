@@ -1,4 +1,4 @@
-# Programming Paradigms Course (2020)
+# Programming Paradigms Course (2020) - 2nd Year, 2nd Semester
 ## Faculty of Automatic Control and Computer Science @ Politehnica University of Bucharest
 ### The repository contains labs implemented in Racket, Haskell, and Prolog and three assignments:
 * An implementation of the Flappy Bird game using Racket
